@@ -1,6 +1,6 @@
 <p align="center">
   <div align="center">
-    <a href="https://abelchiquetti.github.io/AnimeSpectrum">
+    <a href="https://abelgataum.github.io/AnimeSpectrum">
       <img src="https://i.imgur.com/NiZhr3S.png" alt="Logo">
     </a>
     <h1>AnimeSpectrum - Watch High Quality Anime Online, No Ads !</h1>
