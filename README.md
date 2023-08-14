@@ -1,9 +1,9 @@
 <p align="center">
   <div align="center">
     <a href="https://abelchiquetti.github.io/AnimeSpectrum">
-      <img src="https://cdnzia.pages.dev/images/logo.webp" alt="Logo">
+      <img src="https://i.imgur.com/NiZhr3S.png" alt="Logo">
     </a>
-    <h1>AnimeZia - Watch High Quality Anime Online, No Ads !</h1>
+    <h1>AnimeSpectrum - Watch High Quality Anime Online, No Ads !</h1>
     
   </div>
 
@@ -17,16 +17,14 @@
 
 
   <div align="center">
-   <h2> Demo https://the.animezia.com or https://linkzia.42web.io/ </h2> <br>
+   <h2> Demo https://abelgataum.github.io/AnimeSpectrum </h2> <br>
    <!-- PREVIEW IMAGE -->
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiceJ8ksJ7c_-6zydA2eB2l9jKM0ls32LALgy60oizZrMn4tJwZ1IH48aurvpgoH6aok11EjXQ5YPfytuc-oXJJ6q5Ar83fV6nXQrvgSdNhQPMZ96dNxkqh6SEyEJK6flk-UWQncxzqurvh_nls_yZ8VEDJ-zDpQeCVKdq1WzztkqsLendtpbNgXYXLQw/s700/Screenshot%202023-04-01%20184807.png">
    <p> A PHP web application used for browsing, searching and fetching anime details and episodes.</p>
   </div>
   
   <hr />
-<h3>This is old source of https://abelchiquetti.github.io/AnimeSpectrum </h3>
-<h4>This is an improved version of <a href="https://abelchiquetti.github.io/AnimeSpectrum">Anikatsu</a> - Base code of this repo.</h4>
-New source code of animezia.com will not be public anytime soon.
+<h4>This is an improved version of <a href="https://abelgataum.github.io/AnimeSpectrum">Anikatsu</a> - Base code of this repo.</h4>
 
 <hr/>
 
@@ -46,9 +44,9 @@ New source code of animezia.com will not be public anytime soon.
 ## Requirements
  - Before running check if `.htaccess file` is present in root dir of your web server.
  - Follow ** Online Deployment ** procedure from below.
- - First deploy the <a href="https://abelchiquetti.github.io/AnimeSpectrum" >API REPO</a>. Run It and Update the `$api` variable in `_config.php` with new URL.
+ - First deploy the <a href="https://abelgataum.github.io/AnimeSpectrum" >API REPO</a>. Run It and Update the `$api` variable in `_config.php` with new URL.
  - Php environment or Directly Upload the code on php supported hosting.
- - Deploy the <a href="https://abelchiquetti.github.io/AnimeSpectrum">CDN repo</a> and add it's url in  `_config.php`.
+ - Deploy the <a href="https://abelgataum.github.io/AnimeSpectrum">CDN repo</a> and add it's url in  `_config.php`.
 
  - **To Update Website Info (Website name, logo, favicon, socials url) Edit `_config.php` file**
  - Sign up on <a href="https://imagekit.io">Imagekit</a> and follow these steps to use it ->
@@ -89,7 +87,7 @@ If you have purchased Cpanel from hosting provider then follow these:
 First download the repository using. After cloning, change the repo name to your site name.
 ```
 git clone https://abelchiquetti.github.io/AnimeSpectrum
-cd animezia.com
+cd animespectrum.com
 ```
 
 Now start the production build of the site:
