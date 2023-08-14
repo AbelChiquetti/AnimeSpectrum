@@ -7,8 +7,6 @@
     
   </div>
 
-  <hr />
-
 #### NOTE:
 
 * This's an **Educational** Project, purely made for learning purposes.
