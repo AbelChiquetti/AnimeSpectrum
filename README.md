@@ -15,15 +15,14 @@
 
 
   <div align="center">
-   <h2> Demo https://abelgataum.github.io/AnimeSpectrum </h2> <br>
+   <h2> https://abelgataum.github.io/AnimeSpectrum </h2> <br>
    <!-- PREVIEW IMAGE -->
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiceJ8ksJ7c_-6zydA2eB2l9jKM0ls32LALgy60oizZrMn4tJwZ1IH48aurvpgoH6aok11EjXQ5YPfytuc-oXJJ6q5Ar83fV6nXQrvgSdNhQPMZ96dNxkqh6SEyEJK6flk-UWQncxzqurvh_nls_yZ8VEDJ-zDpQeCVKdq1WzztkqsLendtpbNgXYXLQw/s700/Screenshot%202023-04-01%20184807.png">
    <p> A PHP web application used for browsing, searching and fetching anime details and episodes.</p>
   </div>
   
   <hr />
-<h4>This is an improved version of <a href="https://abelgataum.github.io/AnimeSpectrum">Anikatsu</a> - Base code of this repo.</h4>
-
+<h4>This is an improved version of Anikatsu - Base code of this repo.</h4>
 <hr/>
 
 ## Features 
